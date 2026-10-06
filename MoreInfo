@@ -1,0 +1,98 @@
+🛠️ Technologies Used
+n8n – Workflow automation
+Google Gemini – AI analysis
+AI Agent – Resume and job-description reasoning
+n8n Form Trigger – User input
+PDF Extraction – Resume text extraction
+Prompt Engineering – Structured AI output
+
+🧠 AI Analysis Process
+Step 1 – Resume Upload
+
+The user uploads a resume in PDF format.
+
+Step 2 – PDF Text Extraction
+
+The workflow extracts the text from the resume.
+
+Step 3 – Job Description Input
+
+The user provides the job description.
+
+Step 4 – AI Analysis
+
+The AI Agent receives:
+
+Resume Text
++
+Job Description
+
+The AI then analyzes both inputs.
+
+Step 5 – Skill Comparison
+
+The AI identifies:
+
+Resume Skills
+        ↓
+Compare
+        ↑
+Job Requirements
+Step 6 – Job Fit Evaluation
+
+The AI calculates an estimated match percentage and assigns a fit category.
+
+Step 7 – Resume Evaluation
+
+The AI evaluates the quality and relevance of the resume.
+
+Step 8 – Final Report
+
+The user receives a structured report.
+
+📊 Example Output
+🎯 JOB FIT RESULT
+
+Overall Match: 85%
+Fit Status: GOOD FIT
+
+✅ MATCHING SKILLS
+
+- Python
+- SQL
+- OOP
+- Pandas
+- NumPy
+- AWS
+
+❌ MISSING SKILLS
+
+- Git
+- REST APIs
+
+➕ ADDITIONAL SKILLS
+
+- Machine Learning
+- Java
+- C
+- Data Quality Analysis
+
+📄 RESUME QUALITY
+
+Score: 80/100
+
+⚠️ RESUME PROBLEMS
+
+- Missing Git from technical skills
+- Limited REST API experience
+
+💡 IMPROVEMENT SUGGESTIONS
+
+- Add relevant Git experience
+- Include REST API projects
+- Tailor project descriptions to the target role
+
+⭐ FINAL VERDICT
+
+The candidate is a GOOD FIT for this position based on
+the skills and qualifications identified in the resume.
