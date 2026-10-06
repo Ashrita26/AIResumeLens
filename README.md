@@ -134,3 +134,48 @@ Form Ending
   │
   ▼
 Job Fit Report
+
+🔐 Security
+
+This repository does not contain API keys or private credentials.
+
+Before sharing an n8n workflow publicly:
+
+Remove API keys
+Remove authentication tokens
+Remove passwords
+Remove private webhook URLs
+Avoid uploading personal resumes
+Avoid uploading private candidate information
+
+⚠️ Limitations
+
+The job-match percentage is an AI-generated estimate, not a scientifically validated hiring score.
+
+The system may occasionally:
+
+Misinterpret skills
+Miss equivalent skills
+Misunderstand job requirements
+Make incorrect assumptions
+Give an imperfect match percentage
+
+Users should review the AI recommendations before making career decisions.
+
+🔮 Future Improvements
+
+Possible future improvements include:
+
+ATS compatibility scoring
+Resume keyword optimization
+Multiple job-description comparison
+Resume section-by-section analysis
+Better skill normalization
+LinkedIn profile analysis
+Job recommendation system
+Resume rewriting
+Cover-letter generation
+Interactive dashboard
+Industry-specific scoring
+Better structured JSON output
+Automated resume improvement
